@@ -62,10 +62,10 @@ Here are the questions I would like to answer --
 
 - What is the best offer for the overall target audience?
 - What is/are the best offer(s) at an individual personalized level?
-- - Based on Age
-- - Based on Income
-- - Based on Gender & Age
-- - Based on Gender & Income
+ - Based on Age
+ - Based on Income
+ - Based on Gender & Age
+ - Based on Gender & Income
 - Where do we have the opportunity to increase the number of offers being sent for certain demographics to increase sales?
 - How much reward was given to individuals that did not view the offers sent to them?
 
