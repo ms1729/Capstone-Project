@@ -15,12 +15,12 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 The relevant Python packages for this project are as follows:
 
-pandas
-numpy
-math
-json
-matplotlib
-seaborn
+- pandas
+- numpy
+- math
+- json
+- matplotlib
+- seaborn
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -28,9 +28,10 @@ This data set contains simulated data that mimics customer behavior on the Starb
 
 The data is contained in three files:
 
-portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
-profile.json - demographic data for each customer
-transcript.json - records for transactions, offers received, offers viewed, and offers completed
+- portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
+- profile.json - demographic data for each customer
+- transcript.json - records for transactions, offers received, offers viewed, and offers completed
+
 Here is the schema and explanation of each variable in the files:
 
 portfolio.json
